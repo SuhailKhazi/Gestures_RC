@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\rahul\documents\visual studio 2015\projects\cannystill1\cannystill1\tserial.cpp(34): warning C4005: 'STRICT': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(23): note: see previous definition of 'STRICT'
+  CannyStill1.vcxproj -> C:\Users\rahul\Documents\Visual Studio 2015\Projects\CannyStill1\x64\Debug\CannyStill1.exe
+  CannyStill1.vcxproj -> C:\Users\rahul\Documents\Visual Studio 2015\Projects\CannyStill1\x64\Debug\CannyStill1.pdb (Partial PDB)
