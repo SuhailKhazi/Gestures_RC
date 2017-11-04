@@ -115,12 +115,12 @@ int main() {
 			//}
 			
 			
-			if ((v3fCircles[i][1] >= 200.0) && (v3fCircles[i][1] <=  300.0) && (v3fCircles[i][0] >= 200.0) && (v3fCircles[i][0] <= 400.0)) {//stop
+			/*if ((v3fCircles[i][1] >= 200.0) && (v3fCircles[i][1] <=  300.0) && (v3fCircles[i][0] >= 200.0) && (v3fCircles[i][0] <= 400.0)) {//stop
 				word[0] = 'e';
 				Arduino->WriteData(word, sizeof(word) - 1);
 				Sleep(500);
 				//std::cout << "STOP!!" << endl;
-			}
+			}*/
 			
 																			// draw small green circle at center of detected object
 			cv::circle(imgOriginal,												// draw on original image
