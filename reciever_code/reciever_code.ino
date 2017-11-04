@@ -37,7 +37,7 @@ void loop () {
           }
 
 
-        if(word[0] == 'e'){//stop
+        /*if(word[0] == 'e'){//stop
           
           digitalWrite(ENA, HIGH);
           digitalWrite(ENB, HIGH);
@@ -45,7 +45,7 @@ void loop () {
           digitalWrite(7,LOW);
           digitalWrite(8,LOW);
           digitalWrite(9,LOW);
-          }
+          }*/
           
           if(word[0] == 'a'){//turn left
           analogWrite(ENA, 35);
